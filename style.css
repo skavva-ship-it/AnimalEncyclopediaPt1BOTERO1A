@@ -1,0 +1,93 @@
+#grizzlybearpng{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#pandabearpng{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+#polarbearpng{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#body1{
+    text-align: center;
+    background-color: brown;
+    color:aliceblue
+}
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+#bearmainimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#fishmainimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#birdmainimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#fishhrpng{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+}
+#whaleimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#sharkpng{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#body2{
+    text-align: center;
+    background-color: darkblue;
+    color: darkturquoise;
+}
+#beaglepng{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#chickenpng{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#peckingbirdpng{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#body3{
+    text-align: center;
+    background-color: skyblue;
+    color: aliceblue;
+}
+
